@@ -20,7 +20,7 @@ chmod +x ~/changelog-parser/changelog-parser
 ## Usage
 
 ```sh
-~/changelog-parser/parse-changelog.py "2.0.0" ~/changelog.md
+~/changelog-parser/changelog-parser.py "1.0.0" ~/changelog.md
 ```
 
 ## Output
